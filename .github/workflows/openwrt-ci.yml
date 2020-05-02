@@ -10,9 +10,9 @@
 name: OpenWrt-wm350r-v6
 
 on:
-  push:
-    branches: 
-      - master
+  # push:
+    # branches: 
+      # - master
   # schedule:
   #   - cron: 0 20 * * *
   # release:
